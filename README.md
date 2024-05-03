@@ -1,4 +1,4 @@
-##Navigating Uncertainty: Applications of
+**Navigating Uncertainty: Applications of
 Adaptive Decision-Making from the Eater’s
 Perspective
 
