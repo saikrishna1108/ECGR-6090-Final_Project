@@ -1,6 +1,4 @@
-**Navigating Uncertainty: Applications of
-Adaptive Decision-Making from the Eater’s
-Perspective
+## Navigating Uncertainty: Applications of Adaptive Decision-Making from the Eater Perspective
 
 
 In the strategic and interactive ”Mover and
