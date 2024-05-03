@@ -1,4 +1,11 @@
 ## Navigating Uncertainty: Applications of Adaptive Decision-Making from the Eater Perspective
+## Team members:
+Sai Krishna Reddy Mareddy
+Dhanush Uppala Pati
+Indhuja Gudluru
+Sudheer Irlapti
+
+
 
 
 In the strategic and interactive ”Mover and
