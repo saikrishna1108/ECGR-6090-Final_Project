@@ -1,3 +1,8 @@
+##Navigating Uncertainty: Applications of
+Adaptive Decision-Making from the Eater’s
+Perspective
+
+
 In the strategic and interactive ”Mover and
 Eater” game, the Eater’s primary challenge is to accurately
 discern and consume bananas from the true goal, based on
